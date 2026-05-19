@@ -3,3 +3,4 @@ streamlit
 google-genai
 openai
 pydantic
+python-docx
