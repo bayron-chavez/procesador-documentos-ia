@@ -1,0 +1,5 @@
+# Dependencias del Proyecto: Procesador Multimodal de Documentos (IA + Automatización)
+streamlit
+google-genai
+openai
+pydantic
